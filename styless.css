@@ -1,0 +1,27 @@
+body {
+    width: 100%;
+    max-width: 1024px;
+    margin: 0 auto;
+    background-color: lightgray;
+    font-size: 95.5%;
+}
+
+h1 {
+    background-color: lightblue;
+    padding-top: 50px;
+    padding-right: 30px;
+    padding-bottom: 50px;
+    padding-left: 50px;
+}
+
+p {
+    color: blue;
+}
+
+h1.center {
+    text-align: center;
+}
+
+#footer {
+    background-color: lightcoral;
+}
